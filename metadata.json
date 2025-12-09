@@ -1,0 +1,5 @@
+{
+  "name": "CineSum",
+  "description": "A dashboard control plane for AI-driven video summarization, managing transcription, scene generation, and final assembly.",
+  "requestFramePermissions": []
+}
